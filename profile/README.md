@@ -1,12 +1,16 @@
-## Hi there 👋
+Olá Esta é a organização do Pet-Informatica da PUCRS
 
-<!--
 
-**Here are some ideas to get you started:**
+<img src="PET_logo.png" width="300"/>
+[Wiki](https://github.com/petinfpucrs/petinf/wiki)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+##Algumas linguagens usadas em nossos projetos
+
+</div>
+  <div style="display: inline_block"><br>
+ <img align="center" alt="Enzo-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img align="center" alt="Enzo-Python" height="60" width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+   <img align="center" alt="Enzo-HTML5" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center" alt="Enzo-Css3" height = "60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img align="center" alt="Enzo-Linux" height = "60" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg">
+</div>
