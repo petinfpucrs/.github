@@ -1,5 +1,5 @@
 <div>
-<img src="_imagens/PET_logo.png" width="500"/>
+<img src="PET_logo.png" width="500"/>
 
 [Wiki](https://github.com/petinfpucrs/petinf/wiki)
   </div>
