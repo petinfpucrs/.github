@@ -1,6 +1,6 @@
 <div>
 
-  <img src="https://github.com/petinfpucrs/.github/blob/89b524cd800bc3b87ee2d767725b777407fdb497/profile/PET_logo.png" width="500"/>
+  <img src="https://github.com/petinfpucrs/.github/blob/f7b4ac1284041ef2abc90673a4941f13fe407e85/profile/pet%20logo%202.png" width="1000" height="980" /> 
 
 [Wiki](https://github.com/petinfpucrs/petinf/wiki)
   </div>
